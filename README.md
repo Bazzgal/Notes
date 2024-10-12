@@ -19,6 +19,15 @@
 - :smile:
 - :sweet_face:
 - :star:
-
+# Keyboard Shortcuts
+Shortcuts I frequently use:
+- Ctrl-P (print)
+- Ctrl-Shift-Esc (Open Task Manager)
+- Alt-F4 (Close current application)
+Shortcuts I would like to start using:
+- Win-L (Lock screen)
+- Win-I (Open settings)
+- Win-P (Display project options)
+-  
 
 
