@@ -17,7 +17,6 @@
 # Experiments
 - :blush:
 - :smile:
-- :sweet_face:
 - :star:
 # Keyboard Shortcuts
 Shortcuts I frequently use:
