@@ -1,0 +1,4 @@
+- ls this command is used to list the content of a directory
+- mkdir used to create a directory
+- cat is used to open a file
+- type is used to display the content of a file

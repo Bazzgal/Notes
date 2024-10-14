@@ -27,6 +27,7 @@ Shortcuts I would like to start using:
 - Win-L (Lock screen)
 - Win-I (Open settings)
 - Win-P (Display project options)
+[cli commands](docs/cli.md)
 
 
 
